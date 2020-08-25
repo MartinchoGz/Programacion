@@ -6,7 +6,8 @@ int main(){
   printf("Ingrese su numero de empleado: ");
   scanf("%d", numEmp);
   printf("Bienvenido Empleado N°%d.\n", numEmp);
-  printf("Ha llegado a la rama Master.");
+  printf("Ha llegado a la rama Master.\n");
+  printf("¡Que tenga una buena jornada!");
   
   return 0;
 }
