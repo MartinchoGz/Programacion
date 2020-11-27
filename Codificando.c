@@ -3,6 +3,7 @@
 // Esto es un comentario de prueba.
 
 int multiplicarPorCinco(int i);
+int multiplicarPorTres(int i);
 
 int main(){
   int i = 0;
@@ -17,4 +18,8 @@ int main(){
 
 int multiplicarPorCinco(int i){
   return (i * 5);
+}
+
+int multiplicarPorTres(int i){
+  return (i * 3);
 }
